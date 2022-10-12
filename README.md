@@ -5,15 +5,16 @@
 
 [![Open Source Love](https://firstcontributions.github.io/open-source-badges/badges/open-source-v1/open-source.svg)](https://github.com/kishanrajput23/Hacktoberfest-2022)
 <img src="https://img.shields.io/badge/HacktoberFest-2022-blueviolet" alt="Hacktober Badge"/>
-<img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/>
-<a href="https://github.com/kishanrajput23" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
-
+<img src="https://img.shields.io/static/v1?label=%E2%AD%90&message=If%20Useful&style=style=flat&color=BC4E99" alt="Star Badge"/> 
+<a href="https://github.com/ishaangupta-YB/Hacktoberfest-2022/tree/main/contributors" ><img src="https://img.shields.io/badge/Contributions-welcome-green.svg?style=flat&logo=github" alt="Contributions" /></a>
 </div>
 
 
 ### This repository aims to help code beginners with their first successful pull request and open source contribution. :partying_face:
 
 :star: Feel free to use this repo to make your first contribution to an open-source project on GitHub. Practice making your first pull request to a public repository before doing the real thing!
+
+# Don't forget to add your name in [contributors](https://github.com/ishaangupta-YB/Hacktoberfest-2022/tree/main/contributors) folder
 
 :star: Make sure to grab some cool swags during Hacktoberfest by getting involved in the open-source community.
 
@@ -99,7 +100,7 @@ upstream  https://github.com/Remote_Username/Hacktoberfest-2022.git (push)
 ```
 `In your case, you will see`
 ```sh
-$ git remote -V
+$ git remote -v
 origin    https://github.com/Your_Username/Hacktoberfest-2022.git (fetch)
 origin    https://github.com/Your_Username/Hacktoberfest-2022.git (push)
 upstream  https://github.com/ishaangupta-YB/Hacktoberfest-2022.git (fetch)
@@ -180,3 +181,11 @@ We love to have `articles` and `codes` in different languages and the `bettermen
 Please discuss it with us first by creating a new issue.
 
 :tada: :confetti_ball: :smiley: _**Happy Contributing**_ :smiley: :confetti_ball: :tada:
+
+## Contributors:
+
+<a href="https://github.com/ishaangupta-yb/hacktoberfest-2022/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=ishaangupta-yb/hacktoberfest-2022" />
+</a>
+
+Made with [contrib.rocks](https://contrib.rocks).
